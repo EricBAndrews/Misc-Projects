@@ -99,4 +99,4 @@ mng.resize(*maxSize)
 
 anim.save("sunWobbleWithModifications.mp4", dpi=256)
 
-#plt.show()
+plt.show()
